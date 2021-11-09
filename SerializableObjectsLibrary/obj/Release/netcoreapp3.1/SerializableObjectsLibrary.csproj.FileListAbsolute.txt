@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\bin\Release\netcoreapp3.1\SerializableObjectsLibrary.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\bin\Release\netcoreapp3.1\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\bin\Release\netcoreapp3.1\SerializableObjectsLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\SerializableObjectsLibrary\obj\Release\netcoreapp3.1\SerializableObjectsLibrary.GeneratedMSBuildEditorConfig.editorconfig

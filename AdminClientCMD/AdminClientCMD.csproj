@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VirusControllerLibrary\VirusControllerLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ProcessControl">
+      <HintPath>bin\Debug\netcoreapp3.1\ProcessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="SerializableObjectsLibrary">
+      <HintPath>bin\Debug\netcoreapp3.1\SerializableObjectsLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="VirusClientLibrary">
+      <HintPath>bin\Debug\netcoreapp3.1\VirusClientLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

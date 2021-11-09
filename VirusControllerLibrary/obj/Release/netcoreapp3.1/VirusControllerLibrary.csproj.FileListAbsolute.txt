@@ -1,0 +1,12 @@
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Release\netcoreapp3.1\VirusControllerLibrary.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Release\netcoreapp3.1\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Release\netcoreapp3.1\VirusControllerLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Release\netcoreapp3.1\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Release\netcoreapp3.1\SerializableObjectsLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.csproj.CopyComplete
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Release\netcoreapp3.1\VirusControllerLibrary.pdb

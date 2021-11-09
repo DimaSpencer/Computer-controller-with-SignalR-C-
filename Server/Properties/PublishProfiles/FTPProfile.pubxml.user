@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHMfCtsXCUSKtVS3drgxQQAAAAACAAAAAAAQZgAAAAEAACAAAADfrD4Br14xjUTuyDFpwpUAHlV9Wj4+8UlROt1jYKx+6QAAAAAOgAAAAAIAACAAAAAdxO2wj6yVzxxxvzvFIpNRA3KNpA9nTej/N007jzcMSyAAAAAi60hBLjlqOQi8lyNfECJ6RZLjv7I6oNC4PUY265Ze+kAAAADJr7GQ3yfhwzyokMuPU0UO+NxInDspfjac3WXkMiVOQRYOm6rIwnXdemIVRMS6pwhi6maIED99jmv36kE0MDEl</EncryptedPassword>
+    <_PublishTargetUrl>ftp://myfirstserver.somee.com/www.myfirstserver.somee.com</_PublishTargetUrl>
+    <History>True|2021-10-01T17:13:13.0314913Z;False|2021-10-01T20:08:52.1462387+03:00;False|2021-10-01T20:02:53.1987908+03:00;False|2021-10-01T19:58:57.8638468+03:00;False|2021-10-01T19:57:36.4086517+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/23/2021 19:03:11</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/23/2021 19:03:11</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>02/19/2021 21:04:50</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="MimeKit.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="SerializableObjectsLibrary.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="SerializableObjectsLibrary.pdb">
+      <publishTime>01/10/2021 20:02:10</publishTime>
+    </File>
+    <File Include="Server.deps.json">
+      <publishTime>10/01/2021 20:08:23</publishTime>
+    </File>
+    <File Include="Server.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Server.exe">
+      <publishTime>10/01/2021 20:08:18</publishTime>
+    </File>
+    <File Include="Server.pdb">
+      <publishTime>10/01/2021 20:08:17</publishTime>
+    </File>
+    <File Include="Server.runtimeconfig.json">
+      <publishTime>01/10/2021 19:56:13</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Telegram.Bot.dll">
+      <publishTime>02/08/2021 00:12:12</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/01/2021 20:08:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

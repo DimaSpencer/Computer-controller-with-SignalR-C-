@@ -1,0 +1,12 @@
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\VirusClientLibrary.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\VirusClientLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\VirusClientLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\SerializableObjectsLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClientLibrary.GeneratedMSBuildEditorConfig.editorconfig

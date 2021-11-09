@@ -1,0 +1,9 @@
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\ProcessControl.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\ProcessControl.dll
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\bin\Debug\netcoreapp3.1\ProcessControl.pdb
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.dll
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\ProcessControl.pdb

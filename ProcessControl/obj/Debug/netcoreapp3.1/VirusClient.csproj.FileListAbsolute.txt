@@ -1,0 +1,4 @@
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClient.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClient.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClient.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\ProcessControl\obj\Debug\netcoreapp3.1\VirusClient.csproj.CoreCompileInputs.cache

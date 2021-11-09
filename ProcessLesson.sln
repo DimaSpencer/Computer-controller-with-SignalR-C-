@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{D7C3D070-2983-4257-A7A7-5DA78E8FB338}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminClientCMD", "AdminClientCMD\AdminClientCMD.csproj", "{DB9D10D6-8FC7-4B9B-A125-72AF92D74BDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirusControllerLibrary", "VirusControllerLibrary\VirusControllerLibrary.csproj", "{9425EABD-F421-4829-8E4B-CA5849088BFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializableObjectsLibrary", "SerializableObjectsLibrary\SerializableObjectsLibrary.csproj", "{4524DC6B-49AE-46FE-B3D0-E1B2E66E5C98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirsulClientCMD", "VirsulClientCMD\VirsulClientCMD.csproj", "{56C1C2EE-F2B6-441C-A0F3-FABEA0E9DADD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirusClientLibrary", "ProcessControl\VirusClientLibrary.csproj", "{C0E04DCA-F517-4EF5-BC20-73EB0B671F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C3D070-2983-4257-A7A7-5DA78E8FB338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C3D070-2983-4257-A7A7-5DA78E8FB338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C3D070-2983-4257-A7A7-5DA78E8FB338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C3D070-2983-4257-A7A7-5DA78E8FB338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9D10D6-8FC7-4B9B-A125-72AF92D74BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9D10D6-8FC7-4B9B-A125-72AF92D74BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9D10D6-8FC7-4B9B-A125-72AF92D74BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9D10D6-8FC7-4B9B-A125-72AF92D74BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9425EABD-F421-4829-8E4B-CA5849088BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9425EABD-F421-4829-8E4B-CA5849088BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9425EABD-F421-4829-8E4B-CA5849088BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9425EABD-F421-4829-8E4B-CA5849088BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4524DC6B-49AE-46FE-B3D0-E1B2E66E5C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4524DC6B-49AE-46FE-B3D0-E1B2E66E5C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4524DC6B-49AE-46FE-B3D0-E1B2E66E5C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4524DC6B-49AE-46FE-B3D0-E1B2E66E5C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C1C2EE-F2B6-441C-A0F3-FABEA0E9DADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C1C2EE-F2B6-441C-A0F3-FABEA0E9DADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C1C2EE-F2B6-441C-A0F3-FABEA0E9DADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C1C2EE-F2B6-441C-A0F3-FABEA0E9DADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E04DCA-F517-4EF5-BC20-73EB0B671F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E04DCA-F517-4EF5-BC20-73EB0B671F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E04DCA-F517-4EF5-BC20-73EB0B671F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E04DCA-F517-4EF5-BC20-73EB0B671F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {515F649B-B615-4477-9D48-052C6811DDA7}
+	EndGlobalSection
+EndGlobal

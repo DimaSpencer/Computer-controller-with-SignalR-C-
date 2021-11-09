@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SerializableObjectsLibrary/1.0.0": {
+        "runtime": {
+          "SerializableObjectsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerializableObjectsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

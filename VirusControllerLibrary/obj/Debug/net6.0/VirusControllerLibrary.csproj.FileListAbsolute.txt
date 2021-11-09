@@ -1,0 +1,14 @@
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\VirusControllerLibrary.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\ref\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\VirusControllerLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\bin\Debug\net6.0\SerializableObjectsLibrary.pdb
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\ref\VirusControllerLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\VirusControllerLibrary\obj\Debug\net6.0\VirusControllerLibrary.pdb

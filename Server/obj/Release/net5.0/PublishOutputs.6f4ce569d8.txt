@@ -1,0 +1,17 @@
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Server.exe
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Server.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Server.deps.json
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Server.runtimeconfig.json
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Server.pdb
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\SerializableObjectsLibrary.dll
+C:\Users\Дима\source\repos\ProcessLesson\Server\obj\Release\net5.0\PubTmp\Out\SerializableObjectsLibrary.pdb

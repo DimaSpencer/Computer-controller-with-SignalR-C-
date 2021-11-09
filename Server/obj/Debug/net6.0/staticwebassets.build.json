@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9fdLK34DUIf103Vn7u2Y2VMZX/X4Oc6XUXffgRZOPtI=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "C:\\Users\\Дима\\source\\repos\\ProcessLesson\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

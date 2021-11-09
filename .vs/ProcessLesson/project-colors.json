@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db9d10d6-8fc7-4b9b-a125-72af92d74bda": {
+      "ProjectGuid": "db9d10d6-8fc7-4b9b-a125-72af92d74bda",
+      "DisplayName": "AdminClientCMD",
+      "ColorIndex": 0
+    },
+    "974b4922-998c-45f4-ba9d-49af5727cadf": {
+      "ProjectGuid": "974b4922-998c-45f4-ba9d-49af5727cadf",
+      "DisplayName": "VirusClientLibrary",
+      "ColorIndex": 1
+    },
+    "d7c3d070-2983-4257-a7a7-5da78e8fb338": {
+      "ProjectGuid": "d7c3d070-2983-4257-a7a7-5da78e8fb338",
+      "DisplayName": "Server",
+      "ColorIndex": 2
+    },
+    "9425eabd-f421-4829-8e4b-ca5849088bfe": {
+      "ProjectGuid": "9425eabd-f421-4829-8e4b-ca5849088bfe",
+      "DisplayName": "VirusControllerLibrary",
+      "ColorIndex": 3
+    },
+    "cf87d126-4d5a-48f5-982d-8e5d8d54dcda": {
+      "ProjectGuid": "cf87d126-4d5a-48f5-982d-8e5d8d54dcda",
+      "DisplayName": "VirsulClientCMD",
+      "ColorIndex": 4
+    },
+    "e147a08d-3653-4671-bb37-7b6be47b2ae8": {
+      "ProjectGuid": "e147a08d-3653-4671-bb37-7b6be47b2ae8",
+      "DisplayName": "VirusControllerLibraryTests",
+      "ColorIndex": 5
+    },
+    "b0f19bda-8dcf-4103-aeb3-ddea58e35687": {
+      "ProjectGuid": "b0f19bda-8dcf-4103-aeb3-ddea58e35687",
+      "DisplayName": "ControllerWPFClient",
+      "ColorIndex": 6
+    },
+    "4524dc6b-49ae-46fe-b3d0-e1b2e66e5c98": {
+      "ProjectGuid": "4524dc6b-49ae-46fe-b3d0-e1b2e66e5c98",
+      "DisplayName": "SerializableObjectsLibrary",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "56c1c2ee-f2b6-441c-a0f3-fabea0e9dadd": {
+      "ProjectGuid": "56c1c2ee-f2b6-441c-a0f3-fabea0e9dadd",
+      "DisplayName": "VirsulClientCMD",
+      "ColorIndex": 8
+    },
+    "3a344379-b8b1-4727-9663-310f33d29893": {
+      "ProjectGuid": "3a344379-b8b1-4727-9663-310f33d29893",
+      "DisplayName": "Virus_v1.1",
+      "ColorIndex": 9
+    },
+    "c0e04dca-f517-4ef5-bc20-73eb0b671f46": {
+      "ProjectGuid": "c0e04dca-f517-4ef5-bc20-73eb0b671f46",
+      "DisplayName": "VirusClientLibrary",
+      "ColorIndex": 10
+    },
+    "528a533e-6e78-495e-b075-191d186ad08b": {
+      "ProjectGuid": "528a533e-6e78-495e-b075-191d186ad08b",
+      "DisplayName": "rusv1.1",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
